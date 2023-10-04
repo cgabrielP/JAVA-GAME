@@ -2,7 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-/res/player
 
 ### Eclipse ###
 .apt_generated
@@ -28,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/res/player/

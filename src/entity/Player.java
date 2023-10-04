@@ -1,7 +1,7 @@
 package entity;
 
-import Main.GamePanel;
-import Main.KeyHandler;
+import main.GamePanel;
+import main.KeyHandler;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -22,7 +22,7 @@ public class Player extends Entity{
     public void setDefaultValues(){
         x=100;
         y=100;
-        speed=4;
+        speed=20;
         direction="down";
 
     }
